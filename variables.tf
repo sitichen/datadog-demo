@@ -25,7 +25,3 @@ variable "datadog_api_key" {
 variable "datadog_app_key" {
   type = string
   }
-
-variable "datadog_api_url" {
-  type = string
-}
