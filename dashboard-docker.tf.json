@@ -3,7 +3,7 @@
     "datadog_dashboard": {
       "docker": {
         "title": "Docker - ${var.application} Containers",
-        "description": "For containers related to ${var.application} service",
+        "description": "For containers related to ${var.application} service-test",
         "layout_type": "free",
         "is_read_only": false,
         "notify_list": [],
